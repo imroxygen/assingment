@@ -1,0 +1,21 @@
+[
+    {
+      "label": "Electronic",
+      "value": 23
+    },
+    {
+      "label": "Cloths",
+      "value": 25
+    },
+    {
+      "label": "Home appliances",
+      "value": 24
+    },{
+      "label":"Groceries",
+      "value":16
+    },
+    {
+      "label":"Beauty",
+      "value":12
+    }
+  ]
