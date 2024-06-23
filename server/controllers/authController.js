@@ -61,7 +61,7 @@ exports.signup=async(req,res,next)=>{
         });
 
         const token=jwt.sign({
-            _id:newUser._id
+            id:newUser._id
         },'secretkey123',{expiresIn:'1d'});
         res.status(201).json({
             status:'success',
